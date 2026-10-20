@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 422" width="720" height="422" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">
+  <rect width="720" height="422" fill="#ffffff"/>
+  <text x="60" y="24" font-size="15" font-weight="600" fill="#111827">Share of new Google Search ads still running, by days since first seen</text>
+  <g stroke="#e5e7eb" stroke-width="1">
+    <line x1="60" y1="40" x2="700" y2="40"/><line x1="60" y1="117.5" x2="700" y2="117.5"/>
+    <line x1="60" y1="195" x2="700" y2="195"/><line x1="60" y1="272.5" x2="700" y2="272.5"/>
+  </g>
+  <line x1="60" y1="350" x2="700" y2="350" stroke="#9ca3af"/>
+  <g fill="#6b7280" text-anchor="end">
+    <text x="52" y="44">100%</text><text x="52" y="121.5">75%</text><text x="52" y="199">50%</text><text x="52" y="276.5">25%</text><text x="52" y="354">0%</text>
+  </g>
+  <g fill="#6b7280" text-anchor="middle">
+    <text x="60" y="370">0</text><text x="166.67" y="370">30</text><text x="273.33" y="370">60</text><text x="380" y="370">90</text>
+    <text x="486.67" y="370">120</text><text x="593.33" y="370">150</text><text x="700" y="370">180</text>
+    <text x="380" y="396">days since first seen</text>
+  </g>
+  <line x1="490.22" y1="195" x2="490.22" y2="350" stroke="#9ca3af" stroke-dasharray="4 4"/>
+  <text x="498" y="210" fill="#374151">median ≈ 121 days</text>
+  <polyline fill="none" stroke="#2563eb" stroke-width="2.5" points="60,40 70.67,48.37 84.89,63.56 109.78,85.26 166.67,118.43 273.33,153.46 380,177.33 700,225.38"/>
+  <g fill="#2563eb">
+    <circle cx="60" cy="40" r="3.5"/><circle cx="70.67" cy="48.37" r="3.5"/><circle cx="84.89" cy="63.56" r="3.5"/>
+    <circle cx="109.78" cy="85.26" r="3.5"/><circle cx="166.67" cy="118.43" r="3.5"/><circle cx="273.33" cy="153.46" r="3.5"/>
+    <circle cx="380" cy="177.33" r="3.5"/><circle cx="700" cy="225.38" r="3.5"/>
+  </g>
+  <g fill="#1e3a8a" font-size="12">
+    <text x="114" y="80">14d: 85.4%</text><text x="170" y="112">30d: 74.7%</text><text x="276" y="147">60d: 63.4%</text>
+    <text x="384" y="172">90d: 55.7%</text><text x="640" y="217" text-anchor="end">180d: 40.2%</text>
+  </g>
+  <text x="60" y="414" font-size="11" fill="#9ca3af">71,730 ads first seen Jan–Jul 2026 · Kaplan–Meier estimate · data: Google's public ad archive via ppceye.com</text>
+</svg>
